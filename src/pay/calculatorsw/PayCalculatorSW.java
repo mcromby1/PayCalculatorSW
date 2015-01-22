@@ -26,6 +26,8 @@ public class PayCalculatorSW {
                 new PayCalcForm().setVisible(true);
             }
         });
+        
+        System.out.println("I'm a Calculator!");
     }
     
 }
